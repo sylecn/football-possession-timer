@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-03-21 20:38:40.156.pas,C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\possession_time\main.pas</Transaction>
+    <Transaction>2010-03-21 20:38:40.156.dfm,C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\possession_time\main.dfm</Transaction>
+    <Transaction>2010-03-21 20:38:52.453.bdsproj,C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\宋远乐\My Documents\Borland Studio Projects\possession_time\possession_time.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
